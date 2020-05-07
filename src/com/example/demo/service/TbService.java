@@ -6,6 +6,6 @@ public class TbService {
     @Autowired
     tbMapper tMapper;
     public void test(){
-
+        System.out.println("测试");
     }
 }
